@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=150&section=header&text=Thanakool%20Wongsurthikul&fontSize=40&fontAlignY=35&fontColor=ffffff" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=150&section=header&text=Thanakool%20Wongsutthikul&fontSize=40&fontAlignY=35&fontColor=ffffff" alt="Header Banner" width="100%" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Cybersecurity+Explorer;SCiUS+Student+Researcher;AI+%26+IoT+Developer" alt="Typing SVG" />
 
@@ -203,30 +203,6 @@ Actively participating in algorithmic challenges and offensive security exercise
   <br /><br />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BossTheDev2209&layout=compact&theme=tokyonight&hide_border=true&bg_color=1E1E2E&title_color=8A2BE2&text_color=ffffff" alt="Top Languages" width="60%" />
-</div>
-
----
-
-## ✦ GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BossTheDev2209&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
-## ✦ Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BossTheDev2209&theme=tokyo-night&hide_border=true&bg_color=1E1E2E&color=8A2BE2&line=9370DB&point=ffffff" alt="Contribution Graph" width="100%" />
-</div>
-
----
-
-## ✦ Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BossTheDev2209/BossTheDev2209/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
 </div>
 
 ---

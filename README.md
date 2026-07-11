@@ -10,6 +10,7 @@
   
   <br /><br />
 
+  <a href="https://chillxvtkz.live/"><img src="https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=web&logoColor=9370DB&border=8A2BE2" alt="Portfolio" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=9370DB" alt="Email" /></a>
   <a href="https://github.com/BossTheDev2209"><img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=9370DB" alt="GitHub" /></a>
 
@@ -24,7 +25,7 @@
 
 ## ✦ About
 
-A passionate **Grade 11 Student Researcher** in the Science Classrooms in University-Affiliated School Project (SCiUS) at Kasetsart University Kamphaeng Saen Campus. Blending a strong foundation in **Competitive Programming (C++)** and **Cybersecurity** with hands-on research in Biotechnology, Industrial IoT, and AI. I view English as the operating system of the tech world, using it to unlock advanced algorithmic knowledge and system vulnerabilities. Driven by a desire to engineer intelligent hardware solutions and resilient software architecture.
+A passionate **Grade 12 Student Researcher** in the Science Classrooms in University-Affiliated School Project (SCiUS) at Kasetsart University Kamphaeng Saen Campus. Blending a strong foundation in **Competitive Programming (C++)** and **Cybersecurity** with hands-on research in Biotechnology, Industrial IoT, and AI. I view English as the operating system of the tech world, using it to unlock advanced algorithmic knowledge and system vulnerabilities. Driven by a desire to engineer intelligent hardware solutions and resilient software architecture.
 
 **Open To:** CTF Teams • Open Source Collaborations • AI/IoT Research Projects • Competitive Programming Squads
 

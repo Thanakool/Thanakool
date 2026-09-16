@@ -11,8 +11,8 @@
   <br /><br />
 
   <a href="https://chillxvtkz.live/"><img src="https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=web&logoColor=9370DB&border=8A2BE2" alt="Portfolio" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=9370DB" alt="Email" /></a>
-  <a href="https://github.com/BossTheDev2209"><img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=9370DB" alt="GitHub" /></a>
+  <a href="mailto:kendo.vtk@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=9370DB" alt="Email" /></a>
+  <a href="https://github.com/Thanakool"><img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=9370DB" alt="GitHub" /></a>
 
   <br /><br />
 

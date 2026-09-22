@@ -197,12 +197,12 @@ Actively participating in algorithmic challenges and offensive security exercise
 ## ✦ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thanakool&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1E1E2E&title_color=8A2BE2&icon_color=9370DB&text_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanakool&theme=tokyonight&hide_border=true&background=1E1E2E&ring=8A2BE2&fire=9370DB&currStreakLabel=8A2BE2" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thanakool&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1E1E2E&amp;title_color=8A2BE2&amp;icon_color=9370DB&amp;text_color=ffffff&amp;v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanakool&amp;theme=tokyonight&amp;hide_border=true&amp;background=1E1E2E&amp;ring=8A2BE2&amp;fire=9370DB&amp;currStreakLabel=8A2BE2" alt="GitHub Streak" width="48%" />
   
   <br /><br />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanakool&layout=compact&theme=tokyonight&hide_border=true&bg_color=1E1E2E&title_color=8A2BE2&text_color=ffffff" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanakool&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1E1E2E&amp;title_color=8A2BE2&amp;text_color=ffffff&amp;v=1" alt="Top Languages" width="60%" />
 </div>
 
 ---

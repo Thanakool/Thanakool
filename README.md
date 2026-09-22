@@ -201,8 +201,6 @@ Actively participating in algorithmic challenges and offensive security exercise
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanakool&amp;theme=tokyonight&amp;hide_border=true&amp;background=1E1E2E&amp;ring=8A2BE2&amp;fire=9370DB&amp;currStreakLabel=8A2BE2" alt="GitHub Streak" width="48%" />
   
   <br /><br />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanakool&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1E1E2E&amp;title_color=8A2BE2&amp;text_color=ffffff&amp;v=1" alt="Top Languages" width="60%" />
 </div>
 
 ---
